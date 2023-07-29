@@ -58,12 +58,14 @@ BigNumber randomPrime = BigNumber.primeGenerator(50);
 ```
 
 ## Notes
-- The library includes methods for handling sign (positive/negative) of the numbers.
-- The **primeGenerator** method generates random prime numbers of a specified length using the Rabin-Miller primality test.
-- For division operations, the **simpleDivide** method uses a basic long division approach.
-- The library performs arithmetic operations in a straightforward manner and may not be optimized for extremely large numbers or high-performance requirements.
+- The library includes methods for handling signs (positive/negative) of the numbers.
+- Using the Rabin-Miller primality test, the **primeGenerator** method generates random prime numbers of a specified length.
+- The **simpleDivide** method uses a basic long division approach for division operations.
+- The library performs arithmetic operations in a straightforward manner and may not be optimized for huge numbers or high-performance requirements.
 
 ## Contact
-If you have any questions or suggestions, please feel free to contact the developer at email@example.com.
+If you have any questions or suggestions, please feel free to contact the developer at the following mail:
+- Personal Mail: amanbhardwaj12072003@gmail.com
+- University Mail: 21je0081@iitism.ac.in
 
 **Happy computing with BigNumber!**
