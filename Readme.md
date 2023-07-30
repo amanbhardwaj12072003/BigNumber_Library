@@ -2,25 +2,15 @@
 
 ## Owner Information
 
-#### Name :
+#### Name : Aman Bhardwaj
 
-Aman Bhardwaj
+#### College : IIT(ISM) Dhanbad, India
 
-#### College :
+#### Contact : amanbhardwaj12072003@gmail.com
 
-IIT(ISM) Dhanbad, India
+#### Alternate Contact : 21je0081@iitism.ac.in
 
-#### Contact :
-
-amanbhardwaj12072003@gmail.com
-
-#### Alternate Contact :
-
-21je0081@iitism.ac.in
-
-#### Project Category :
-
-Personal Project
+#### Project Category : Personal Project
 
 ## Overview
 This is a custom implementation of a BigInteger library in Java, named **BigNumber**. The library provides support for performing arithmetic operations on large integers with arbitrary precision. It is capable of handling numbers that exceed the range of primitive data types in Java.
